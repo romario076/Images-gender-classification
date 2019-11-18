@@ -1,7 +1,7 @@
 # Images-gender-classification
 
-Current notebook - simple images classification task.
-Here i tried basic approaches to images classification task. Iused and compared two types of neural networks:
+Current notebook - simple images recognition task.
+Here i tried basic approaches for images recognition tasks. Also here i used and compared two types of neural networks:
 * Dence connected
 * Convolutional
 
