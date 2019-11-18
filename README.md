@@ -18,5 +18,5 @@ Possible improvement - increase data set.
 * matplotlib
 
 
-### Classification output:
+### Result example:
 ![alt text](https://user-images.githubusercontent.com/10981310/69053316-d1df1000-0a11-11ea-8501-c0139f9d8359.PNG)
